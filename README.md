@@ -19,12 +19,12 @@
 
 
 
-- ⚡ Fun fact **I like Garbanzo Cakes.**
+- ⚡ Fun fact **I like Pasteles de Garbanzo.**
 
-<h3 align="center">This is a Garbanzo cake</h3>
-<div style="display:flex;justify-content:center">
-  <img align="middle" src="https://pastelesypasteles.co/wp-content/uploads/2019/09/pastel-de-garbanzo-pasteles-y-pasteles-cucuta.png" alt="GarbanzoCake UWU">
-</div>
+<h3 align="center">This is a Pastel de Garbanzo</h3>
+
+<img align="middle" src="https://pastelesypasteles.co/wp-content/uploads/2019/09/pastel-de-garbanzo-pasteles-y-pasteles-cucuta.png" alt="GarbanzoCake UWU">
+
 
 
 
