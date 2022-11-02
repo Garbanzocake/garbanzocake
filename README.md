@@ -21,7 +21,7 @@
 <br>
 <br>
 <br>
-- ⚡ Fun fact *I like Pasteles de Garbanzo*
+- ⚡ Fun fact **I like Pasteles de Garbanzo**
 
 <h3 align="left">This is a Pastel de Garbanzo</h3>
 
